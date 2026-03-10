@@ -1,7 +1,7 @@
+# EXP 4- ASK & FSK
 # NAME:AYESHA M
 # REG NO:212224060034
 
-# ASK & FSK
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
